@@ -1,0 +1,6 @@
+=== Portfolio Summary ===
+Stock        Price  Quantity       Value
+----------------------------------------
+AMZN           190         5         950
+----------------------------------------
+Total Investment Value: $950

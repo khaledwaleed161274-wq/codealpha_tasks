@@ -1,0 +1,16 @@
+Hello CodeAlpha Team,
+
+Please send the internship updates to khaled.dev@example.com or support@codealpha.tech.
+For technical questions, you can reach out to mentor.python@academy.org.
+
+Note: Please make sure khaled.dev@example.com is CC'd on all emails.
+Also, our HR contact is hr_department@company-eg.com and backup is Admin@Example.com.
+
+Invalid entries that should be ignored:
+- test@
+- @domain.com
+- user@localhost
+- plain text without email
+
+Best regards,
+Project Coordinator
